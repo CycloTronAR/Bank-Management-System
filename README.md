@@ -1,6 +1,7 @@
 #### The Bank Management System is a well-stable Java-based operational unit with a built-in ATM simulator.
 # Below are some sample screenshot of project
 ![image](https://github.com/user-attachments/assets/aabf7bdf-0d5e-45a5-8a7e-b80fd5a56aa7)
+![image](https://github.com/user-attachments/assets/c7d8ccaa-e5ed-4cf6-ae55-da92229d84a3)
 ![image](https://github.com/user-attachments/assets/ef576f19-fad5-4f67-aa9b-49c87fc5ac43)
 ![image](https://github.com/user-attachments/assets/746b22dd-5b34-4c64-893a-01cb79c5bbaa)
 ![image](https://github.com/user-attachments/assets/47b10bb0-b202-4561-a02c-41d8df4589f4)
